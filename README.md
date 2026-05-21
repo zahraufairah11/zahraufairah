@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zahraufairah&label=Profile+Views&color=00e5cc&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=zahraufairah11&label=Profile+Views&color=00e5cc&style=flat" />
 </p>
 
 ---
@@ -57,8 +57,8 @@
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zahraufairah&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zahraufairah&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zahraufairah11&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zahraufairah11&theme=tokyonight" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zahraufairah/zahraufairah/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/zahraufairah11/zahraufairah11/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -74,7 +74,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zahraufairah&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zahraufairah11&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </p>
 
 ---
@@ -82,7 +82,7 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/zahraufairah">
+  <a href="https://linkedin.com/in/zahraufairah11">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;
@@ -90,7 +90,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   &nbsp;
-  <a href="https://github.com/zahraufairah">
+  <a href="https://github.com/zahraufairah11">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
